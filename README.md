@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:helgiskafta@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-helgiskafta%40outlook.com-0d9488?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/hrolgar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@hrolgar-0ea5e9?style=flat&logo=github"></a>
 </p>
 
@@ -34,28 +33,3 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" />
 </p>
-
-### 🚀 what I like shipping
-- **Production-ready .NET**: Auth, subscriptions, file/PDF generation, background jobs, telemetry.
-- **IaC pipelines**: Declarative Azure infra with validation, preview, and safe deploy.
-- **Homelab/Media automation**: Dockerized services, maintenance tasks, backups, and dashboards.
-
-### 🧭 where to start
-- Check my **pinned** repos below for:  
-  - .NET/Blazor apps and utilities  
-  - Infra/automation (Terraform/OpenTofu, Ansible)  
-  - Media/homelab tools and docs
-
-### 📝 notes & writing
-I document “gotchas” from real projects: Azure, Actions, Grafana, PDF generation in .NET, auth flows.  
-(If you like this idea and want write-ups, ping me.)
-
-### 🤝 collaborate
-Open to pairing on:
-- Observability (Grafana + Otel) for .NET apps
-- Azure pipelines & IaC hardening
-- Media/homelab automation (Jellyfin, qBittorrent, Sonarr/Radarr)
-
----
-
-<sub>Outside of keyboards: dad life, coffee, and the occasional RTS.</sub>
