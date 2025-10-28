@@ -6,5 +6,5 @@ Full-stack developer from Norway. I build .NET/Blazor apps, automate homelab/med
 - ☁️ Cloud: Azure, Terraform/OpenTofu, GitHub Actions
 - 🧰 Stack: .NET 8/9, C#, Blazor, Python, Ansible
 - 🎮 Fun: C# game prototypes, tools
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/) · [Personal site](https://) (optional)
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/helgi-skaftason-skjortnes-65aba499/) · [Personal site](https://hrolgar.com)
 - ⚙️ Homelab: Proxmox, Jellyfin, Grafana, Prometheus/Otel
